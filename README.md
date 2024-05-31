@@ -1,1 +1,1 @@
-# RAG1-Simple-RAG
+# RAG-Simple-RAG
